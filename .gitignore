@@ -1,0 +1,10 @@
+# Comment
+
+# Rule out
+*.DS_Store
+*.psd
+*.ai
+*.jpeg
+*.jpg
+*.png
+*.gif

@@ -1,0 +1,23 @@
+/* --------------------------------------------------
+Setting
+-------------------------------------------------- */
+/*
+Color
+html
+- color
+- font
+- lineheight
+a
+- link
+font
+- other fonts (ex:google)
+-------------------------------------------------- */
+$colHtmlBG: #FFFFFF;
+$colM: #000066;
+
+html {
+	background: $colHtmlBG;
+	font-family: ;
+}
+* { box-sizing:border-box;}
+a { cursor: pointer;}

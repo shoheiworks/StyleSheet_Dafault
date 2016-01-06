@@ -1,16 +1,26 @@
-/*
+@charset "utf-8";
+/*!
 Theme Name: 
 Theme URI: 
 Description: .
 Version: 0.1
 Author: DWP-shohei
 Tags: dwp
+
+- - - - - - -
+Start
+- - - - - - -
+
 */
-@charset "utf-8";
-/* --------------------------------------------------
-Default @import '_default.scss';
--------------------------------------------------- */
-html{margin:0;}
+
 @import '_default_1.0.scss';
+/*! --------------------------------------------------
+Start Customize
+-------------------------------------------------- */
 @import '_sassLib_1.0.scss';
-@import '_setting.scss';
+@import '_setting_1.0.scss';
+
+/*! --------------------------------------------------
+Start Contents
+-------------------------------------------------- */
+// @import '_content.scss';
